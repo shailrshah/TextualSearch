@@ -1,0 +1,1 @@
+mechan program analysi on mean of analyz program perform is by deriv close form express for their execut behavior thi paper discuss the mechan of such analysi and describ a system metric which is abl to analyz simpl lisp program

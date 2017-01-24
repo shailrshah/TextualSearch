@@ -1,0 +1,1 @@
+retriev of misspel name in an airlin passeng record system thi paper discuss the limit problem of recognit and retriev of a given misspel name from among a roster of sever hundr name such as the reserv inventori for a given flight of a larg jet airlin a program ha been develop and oper on the telefil a store program

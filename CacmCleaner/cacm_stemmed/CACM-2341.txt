@@ -1,0 +1,1 @@
+block a new data type for snobol4 a new data type call a block ha been implement for snobol4 a block is a three dimension aggreg of charact in the form of a right parallelepip best thought of as a three dimension extens to a string the third dimens is us for overstrik block mai be print concaten in ani of three dimens and merg on the basi of program

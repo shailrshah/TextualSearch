@@ -1,0 +1,1 @@
+gpl a truli gener purpos languag a truli gener purpos program languag gpl is describ which contain facil for construct within the languag new data type as well as facil for oper perform upon them the basic languag is minim in the sens that no basic element can be deriv from the other with high effici in the object program

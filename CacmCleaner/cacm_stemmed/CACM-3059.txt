@@ -1,0 +1,1 @@
+model for parallel process within program applic to cpu i o and i o i o overlap approxim queue model for intern parallel process by individu program in a multiprogram

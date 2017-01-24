@@ -1,0 +1,1 @@
+automat contour map some method for contour map by mean of a digit plotter ar discuss and a new method is present that is simpl enough to be implement by program with a rather small number of instruct about 120 fortran iv instruct ar requir comparison with some method propos by other author ar also perform a fortran iv program

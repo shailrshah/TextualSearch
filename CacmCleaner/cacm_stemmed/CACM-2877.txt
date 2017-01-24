@@ -1,0 +1,1 @@
+a program data flow analysi procedur the global data relationship in a program can be expos and codifi by the static analysi method describ in thi paper a procedur is given which determin all the definit which can possibl reach each node of the control flow graph of the program

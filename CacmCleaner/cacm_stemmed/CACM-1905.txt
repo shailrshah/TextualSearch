@@ -1,0 +1,1 @@
+the simplex method of linear program us lu decomposit standard comput implement of dantzig s simplex method for linear program

@@ -1,0 +1,1 @@
+toward automat program synthesi an elementari outlin of the theorem prove approach to automat program synthesi is given without dwell on technic detail the method is illustr by the automat construct of both recurs and iter program oper on natur number list and tree in order to construct a program

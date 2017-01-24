@@ -1,0 +1,1 @@
+program semant for multiprogram comput the semant ar defin for a number of meta instruct which perform oper essenti to the write of program in multiprogram comput system these meta instruct relat to parallel process protect of separ comput program

@@ -1,0 +1,1 @@
+a processor alloc method for time share a schedul algorithm is propos which is intend to minim chang of task on processor and therebi reduc over head the algorithm also ha applic to more gener resourc alloc problem it is implement by mean of a method for effici handl dynam

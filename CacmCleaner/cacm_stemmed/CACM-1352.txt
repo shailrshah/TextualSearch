@@ -1,0 +1,1 @@
+automat integr of a function with a paramet two effici method for automat numer integr ar romberg integr and adapt simpson integr for integrand of the form f x g x a where a is a paramet it is shown that romberg s method is more effici a fortran program

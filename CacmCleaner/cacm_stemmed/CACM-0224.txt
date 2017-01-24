@@ -1,0 +1,1 @@
+sequenti formula translat the syntax of an algorithm languag such as algol is conveni describ as a sequenc of state indic by an element call cellar transit ar control by admiss state symbol pair which mai be repres by a transit matrix thi descript of syntax furnish at the same time an extrem simpl rule for translat into machin program

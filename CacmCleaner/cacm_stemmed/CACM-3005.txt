@@ -1,0 +1,1 @@
+implic of structur program for machin architectur base on an empir studi of more than 10 000 line of program

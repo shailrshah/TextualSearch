@@ -1,0 +1,1 @@
+a conceptu framework for a nonprocedur program languag a sequenti program languag forc the programm to prescrib explicitli the order in which the oper in hi program have to be execut even if the order is not relev to the solut of hi problem the requir to indic irrelev sequenc can be remov if the languag provid facil for specifi a task in a nonprocedur manner in gener a program

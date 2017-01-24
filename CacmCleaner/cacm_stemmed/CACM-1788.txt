@@ -1,0 +1,1 @@
+toward a gener processor for program languag mani effort have been made to develop a better wai of implement a higher level program languag than by the construct of a whole new compil but so far none ha prove gener satisfactori in thi paper it is contend that a program

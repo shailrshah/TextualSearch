@@ -1,0 +1,1 @@
+structur multiprogram thi paper present a propos for structur represent of multiprogram in a high level languag the notat us explicitli associ a data structur share by concurr process with oper defin on it thi clarifi the mean of program
